@@ -1,5 +1,5 @@
 {
-  "name": "@williamgallery/studio-types",
+  "name": "@wmorrison/studio-types",
   "version": "0.0.1",
   "description": "Shared Sanity types for William Gallery",
   "main": "dist/index.js",

@@ -1,0 +1,27 @@
+{
+  "name": "@williamgallery/studio-types",
+  "version": "0.1.0",
+  "description": "Shared Sanity types for William Gallery",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williamgallery/pkg.williamgallery.studio.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  },
+  "peerDependencies": {
+    "@portabletext/types": "^2.0.0"
+  }
+}

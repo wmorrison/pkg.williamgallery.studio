@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/williamgallery/pkg.williamgallery.studio.git"
+    "url": "git+https://github.com/wmorrison/pkg.williamgallery.studio.git"
   },
   "devDependencies": {
     "typescript": "^5.7.0"

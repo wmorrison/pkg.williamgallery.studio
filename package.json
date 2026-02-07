@@ -1,6 +1,6 @@
 {
   "name": "@williamgallery/studio-types",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shared Sanity types for William Gallery",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
